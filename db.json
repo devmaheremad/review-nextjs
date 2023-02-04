@@ -1,0 +1,97 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "title for new 1",
+      "description": "Description for new 1",
+      "category": "sports"
+    },
+    {
+      "id": 2,
+      "title": "title for new 2",
+      "description": "Description for new 2",
+      "category": "arts"
+    },
+    {
+      "id": 3,
+      "title": "title for new 3",
+      "description": "Description for new 3",
+      "category": "games"
+    },
+    {
+      "id": 4,
+      "title": "title for new 4",
+      "description": "Description for new 4",
+      "category": "crypto"
+    },
+    {
+      "id": 5,
+      "title": "title for new 5",
+      "description": "Description for new 5",
+      "category": "sports"
+    },
+    {
+      "id": 6,
+      "title": "title for new 6",
+      "description": "Description for new 6",
+      "category": "games"
+    }
+  ],
+  "dashboard": {
+    "likes": 350,
+    "posts": 5,
+    "followers": "15k",
+    "following": "25"
+  },
+  "events": [
+    {
+      "id": 1,
+      "title": "title for event 1",
+      "description": "description for event 1",
+      "category": "arts",
+      "date": "15 February"
+    },
+    {
+      "id": 2,
+      "title": "title for event 2",
+      "description": "description for event 2",
+      "category": "crypto",
+      "date": "16 February"
+    },
+    {
+      "id": 3,
+      "title": "title for event 3",
+      "description": "description for event 3",
+      "category": "arts",
+      "date": "18 February"
+    },
+    {
+      "id": 4,
+      "title": "title for event 4",
+      "description": "description for event 4",
+      "category": "sports",
+      "date": "20 February"
+    },
+    {
+      "id": 5,
+      "title": "title for event 5",
+      "description": "description for event 5",
+      "category": "sports",
+      "date": "25 February"
+    },
+    {
+      "id": 6,
+      "title": "title for event 6",
+      "description": "description for event 6",
+      "category": "food",
+      "date": "22 February"
+    },
+    {
+      "id": 7,
+      "title": "title for event 7",
+      "description": "description for event 7",
+      "category": "food",
+      "date": "22 February"
+    }
+  ]
+}
